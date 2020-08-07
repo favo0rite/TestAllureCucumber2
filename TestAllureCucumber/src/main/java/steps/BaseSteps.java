@@ -37,7 +37,7 @@ public class BaseSteps {
     }
 
     public static void tearDown() {
-        //driver.quit();
+        driver.quit();
     }
 
 
